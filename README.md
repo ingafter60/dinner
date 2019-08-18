@@ -11,3 +11,5 @@
 ## 5. Setting up STATIC_ROOT, MEDIA_ROOT in settings and project's url
 
 ## 6. Added html templates to apps, loading static files, making the dynamic navigation 
+
+## 7. Making Our Menu dynamic by loading data from the db
